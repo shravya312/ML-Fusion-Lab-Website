@@ -130,7 +130,7 @@ Contributions are welcome! To contribute, You can follow these steps:
 ## Contributors
 
 <a href="https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/graphs/contributors"> 
-<img src="https://contrib.rocks/image?repo=aditya-bhaumik/Pathsphere" /> </a>
+<img src="https://contrib.rocks/image?repo=ML-Fusion-Lab/ML-Fusion-Lab-Website" /> </a>
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
