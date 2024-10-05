@@ -129,30 +129,8 @@ Contributions are welcome! To contribute, You can follow these steps:
 
 ## Contributors
 
-1. **[Vivek Vardhan](https://github.com/vivekvardhan2810)**
-2. **[Vivek](https://github.com/vivekv2810)**
-3. **[Sahho Arjun](https://github.com/sahhoArjun097)**
-4. **[Harbaksh Singh Baath](https://github.com/harbakshsinghbaath)**
-5. **[Nandini](https://github.com/Nandini-13)**
-6. **[Mohit Ranag](https://github.com/Mohitranag18)**
-7. **[Pratyush Lam](https://github.com/lampratyush004)**
-8. **[STDYGIT](https://github.com/STDYGIT)**
-9. **[Orca](https://github.com/Orca-63)**
-10. **[Shravya](https://github.com/shravya312)**
-11. **[EzDecode](https://github.com/ezDecode)**
-12. **[Sehaj Somal](https://github.com/sehajsomal5)**
-13. **[Shivam Yadav](https://github.com/shivamy009)**
-14. **[Kartikeya](https://github.com/kartikey369-ind)**
-15. **[Viniti](https://github.com/viniti05)**
-16. **[Vidhan Thakur](https://github.com/VidhanThakur09)**
-17. **[Amarjeet Kumar](https://github.com/Amarjeetkumart)**
-18. **[Sriraghavi](https://github.com/sriraghavi22)**
-19. **[Yeshwanth D S](https://github.com/yeshwanth-ds)**
-20. **[Khushi](https://github.com/Khushi4404)**
-21. **[Web Dev Learner](https://github.com/Web-Dev-Learner)**
-22. **[Sapta Dev](https://github.com/Sapta-Dev27)**
-23. **[Saad Gibawa](https://github.com/saadgibawa)**
-
+<a href="https://github.com/ML-Fusion-Lab/ML-Fusion-Lab-Website/graphs/contributors"> 
+<img src="https://contrib.rocks/image?repo=aditya-bhaumik/Pathsphere" /> </a>
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
